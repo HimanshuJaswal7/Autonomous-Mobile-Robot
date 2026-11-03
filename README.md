@@ -6,7 +6,7 @@ An Autonomous Mobile Robot (AMR) simulation developed using NVIDIA Isaac Sim and
 
 ## 📌 Overview
 
-This project focuses on developing and simulating an **Autonomous Mobile Robot (AMR)** using NVIDIA Isaac Sim and ROS 2. The simulation explores autonomous robot navigation, movement, path planning, and obstacle avoidance within a physics-based virtual environment.
+This project focuses on developing and simulating an **Autonomous Mobile Robot (AMR)** using NVIDIA Isaac Sim and ROS 2. The simulation explores autonomous robot navigation, movement, path planning, and obstacle avoidance within a physics based virtual environment.
 
 The goal is to understand how autonomous mobile robots perceive their surroundings, navigate through environments, and perform tasks without continuous human intervention.
 
