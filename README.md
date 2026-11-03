@@ -45,15 +45,6 @@ Autonomous-Mobile-Robot/
 └── assets/              # Additional project assets (if applicable)
 ```
 
-## 🔮 Future Improvements
-
-- Integrate SLAM (Simultaneous Localization and Mapping).
-- Implement Nav2 for autonomous navigation.
-- Add LiDAR and camera-based perception.
-- Implement real-time obstacle detection.
-- Develop autonomous waypoint navigation.
-- Explore ROS 2 navigation and localization algorithms.
-
 ## 🏁 Conclusion
 
 This project provides practical exposure to autonomous mobile robotics by combining NVIDIA Isaac Sim's simulation capabilities with ROS 2. It serves as a foundation for exploring intelligent navigation, perception, and autonomous robotic systems.
